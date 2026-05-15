@@ -1,1 +1,3 @@
-# machine-learning-practice
+# machine-learning-practic
+
+Hello myself
